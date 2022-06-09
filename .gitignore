@@ -1,0 +1,4 @@
+*.txz
+*.json
+!extensions/*.json
+!sample_user_config.json
