@@ -1,4 +1,4 @@
-name: build ds918p
+name: DS918+
 
 on:
   workflow_dispatch:
